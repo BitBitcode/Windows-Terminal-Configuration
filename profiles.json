@@ -64,7 +64,7 @@
             "tabTitle": "Git命令行",     // 标签页名称，设置但无效，官方解释：“Some shells (like bash) may choose to ignore this initial value”
             //"commandline": "C:\\Program Files\\Git\\git-bash.exe",  // 这个不能整合进去，只能弹窗显示
             "commandline": "C:\\Program Files\\Git\\bin\\bash.exe",
-            "icon": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\git-for-windows.ico", 
+            "icon": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\git-for-windows.ico", 
             "hidden": false,
             "useAcrylic": true,         // 是否启用亚克力效果
             "acrylicOpacity": 0.6       // 亚克力效果不透明度（0 ~ 1）
@@ -76,7 +76,7 @@
             "name": "Python 3.8.2",         // 下拉菜单名称
             "tabTitle": "Python交互模式",    // 标签页名称
             "commandline": "python.exe",
-            "icon": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\python.png", 
+            "icon": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\python.png", 
             "hidden": false,
             
             "colorScheme": "Vintage", // 官方预设："Campbell", "Campbell Powershell", "Vintage", "One Half Dark", "One Half Light", "Solarized Dark","Solarized Light"
@@ -89,7 +89,7 @@
             "cursorColor": "#FFFFFF",   // 光标颜色（十六进制色值）
             "selectionBackground": "#FFFFFF",
             
-            "backgroundImage": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\Kiana_c4.png", // 背景图片（本地图片路径）   
+            "backgroundImage": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\Kiana_c4.png", // 背景图片（本地图片路径）   
             "backgroundImageOpacity": 1.0, // 背景图片不透明度（0 ~ 1）
             "backgroundImageAlignment": "right", // 背景图片对齐方式："center", "left", "top", "right", "bottom", "topLeft", "topRight", "bottomLeft", "bottomRight"      
             "backgroundImageStretchMode": "uniform" // 背景图片放缩方式："none", "fill", "uniform", "uniformToFill"            
@@ -101,7 +101,7 @@
             "name": "Python Learning Tool",            // 下拉菜单名称
             "tabTitle": "Python网页代码运行助手",       // 标签页名称
             "commandline": "C:\\GitHub\\Python-Lab\\Learning_Tool\\自动配置.cmd",
-            "icon": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\python.png", 
+            "icon": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\python.png", 
             "hidden": false,
             
             "colorScheme": "Vintage", // 官方预设："Campbell", "Campbell Powershell", "Vintage", "One Half Dark", "One Half Light", "Solarized Dark","Solarized Light"
@@ -131,7 +131,7 @@
             "useAcrylic": true,                     // 是否启用亚克力效果
             "acrylicOpacity": 0.8,                  // 亚克力效果不透明度（0 ~ 1）
             "background": "#2B579A",              // 背景颜色（十六进制色值）（覆盖已设置的“color schemes”）
-            "backgroundImage": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\BH2-Kiana.png", // 背景图片（本地图片路径）   
+            "backgroundImage": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\BH2-Kiana.png", // 背景图片（本地图片路径）   
             "backgroundImageOpacity": 1.0,          // 背景图片不透明度（0 ~ 1）
             "backgroundImageAlignment": "right",    // 背景图片对齐方式："center", "left", "top", "right", "bottom", "topLeft", "topRight", "bottomLeft", "bottomRight"      
             "backgroundImageStretchMode": "none",   // 背景图片放缩方式："none", "fill", "uniform", "uniformToFill"
@@ -163,7 +163,7 @@
             "name": "RGB Convertor",            // 下拉菜单名称
             "tabTitle": "超级色值计算器",        // 标签页名称
             "commandline": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\RGB_Convertor.exe",
-            "icon": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\RGB-Convertor-icon-2.ico", 
+            "icon": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\RGB-Convertor-icon-2.ico", 
             "hidden": false,
             
             "colorScheme": "Light_White", // 官方预设："Campbell", "Campbell Powershell", "Vintage", "One Half Dark", "One Half Light", "Solarized Dark","Solarized Light"
