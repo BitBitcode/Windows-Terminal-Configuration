@@ -51,7 +51,7 @@
             "cursorColor": "#000000",   // 光标颜色（十六进制色值）
             "selectionBackground": "#000000",
 
-            "backgroundImage": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\LZLZ.png", // 背景图片（本地图片路径）   
+            "backgroundImage": "C:\\Users\\WWC\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\LZLZ.png", // 背景图片（本地图片路径）   
             "backgroundImageOpacity": 1.0, // 背景图片不透明度（0 ~ 1）
             "backgroundImageAlignment": "right", // 背景图片对齐方式："center", "left", "top", "right", "bottom", "topLeft", "topRight", "bottomLeft", "bottomRight"      
             "backgroundImageStretchMode": "uniform" // 背景图片放缩方式："none", "fill", "uniform", "uniformToFill" 
