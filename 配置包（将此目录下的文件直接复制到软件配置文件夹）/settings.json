@@ -76,6 +76,7 @@
 
         // Git Bush 属性
         {
+            "guid": "{aad16612-028d-48a9-bedc-1a13b8a5a992}",
             "name": "Git Bash",         // 下拉菜单名称
             "tabTitle": "Git命令行",     // 标签页名称，设置但无效，官方解释：“Some shells (like bash) may choose to ignore this initial value”
             //"commandline": "C:\\Program Files\\Git\\git-bash.exe",  // 这个不能整合进去，只能弹窗显示
