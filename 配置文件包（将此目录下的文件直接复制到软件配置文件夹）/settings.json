@@ -168,7 +168,7 @@
 
             // 其他属性
             "padding": "10, 10, 10, 10", // 内边距，默认："8, 8, 8, 8"
-            "scrollbarState": "visable", // 滚动条可见性："visible", "hidden"
+            "scrollbarState": "visible", // 滚动条可见性："visible", "hidden"
             "snapOnInput": true,         // 是否自动跳转到输入位置
             "historySize": 9001,
 
